@@ -24,8 +24,8 @@ The game engine is compatible with the following operating systems:
 Project resources you should check out to be more informed.
 
 * [1. LICENSE](<LICENSE.md>)
-* [2. CHANGELOG](<docs/CHANGELOG.md>)
-* [3. CONTRIBUTING](<docs/CONTRIBUTING.md>)
+* [2. CHANGELOG](<CHANGELOG.md>)
+* [3. CONTRIBUTING](<CONTRIBUTING.md>)
 * [4. THIRD PARTY NOTICE](<libs/THIRD_PARTY_NOTICES.md>)
 
 ## Requests and Contributing
